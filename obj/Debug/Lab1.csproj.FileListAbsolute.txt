@@ -1,0 +1,13 @@
+E:\Второй курс Техноложка\РПС\#1\Lab1\bin\Debug\Lab1.exe.config
+E:\Второй курс Техноложка\РПС\#1\Lab1\bin\Debug\Lab1.exe
+E:\Второй курс Техноложка\РПС\#1\Lab1\bin\Debug\Lab1.pdb
+E:\Второй курс Техноложка\РПС\#1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Второй курс Техноложка\РПС\#1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Второй курс Техноложка\РПС\#1\Lab1\obj\Debug\Lab1.exe
+E:\Второй курс Техноложка\РПС\#1\Lab1\obj\Debug\Lab1.pdb
+E:\Git\Repos\PSD\Lab1\bin\Debug\Lab1.exe.config
+E:\Git\Repos\PSD\Lab1\bin\Debug\Lab1.exe
+E:\Git\Repos\PSD\Lab1\bin\Debug\Lab1.pdb
+E:\Git\Repos\PSD\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Git\Repos\PSD\Lab1\obj\Debug\Lab1.exe
+E:\Git\Repos\PSD\Lab1\obj\Debug\Lab1.pdb
